@@ -1,1 +1,1 @@
-# financial-dashboard-Next.js
+# Welcome to the Next.js Dashboard App! This project is designed to help me grasp the fundamentals of Next.js while creating a simple yet effective dashboard.
